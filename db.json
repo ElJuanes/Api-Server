@@ -1,11 +1,19 @@
 {
-  "posts": [
+  "users":[
     {
-      "id": 1,
-      "title": "hello"
+      "id":1,
+      "username":"Rick",
+      "deck":[2,45,76,444,27]
+    },
+    {
+      "id":2,
+      "username":"Khon",
+      "deck":[32,242,164,154,38]
+    },
+    {
+      "id":3,
+      "username":"Jack",
+      "deck":[117,25,3,41,33]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+   ]
+ }
